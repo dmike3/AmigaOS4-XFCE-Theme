@@ -1,0 +1,11 @@
+full_width_title=true
+title_alignment=left
+title_full_width=true
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+maximized_offset=5
+button_offset=5
+button_spacing=5
+active_text_color=#000000
+inactive_text_color=#626562
+

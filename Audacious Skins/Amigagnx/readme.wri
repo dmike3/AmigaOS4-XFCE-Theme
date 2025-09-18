@@ -1,0 +1,90 @@
+{\rtf1\ansi\deff0\deftab720{\fonttbl{\f0\fswiss MS Sans Serif;}{\f1\froman\fcharset2 Symbol;}{\f2\fswiss\fprq2 Tahoma;}{\f3\froman Times New Roman;}{\f4\fswiss\fprq2 Trebuchet MS;}}
+{\colortbl\red0\green0\blue0;}
+\deflang1033\pard\plain\f2\fs16\cf0 \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash 
+\par \plain\f4\fs24\cf0\b  OS8 AMP v1.95 - By DeeLight
+\par \plain\f2\fs16\cf0 \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash 
+\par I made my first OS8 AMP skin, using "The Mad Yeti" original OS8 AMP for Winamp 1.9x.
+\par I changed and retouched a lot of stuff in his original skin, and added the Equalizer and Playlist.
+\par In version 1.5, I made much more improvements, and added a lot of new stuff. I was inspired
+\par by some other "mac" skins for Winamp 1.x and the MacAmp 98 skin for Winamp 2.x. In version
+\par 1.6, I added the Mini Browser, fixed some bugs and made some improvements. Version 1.8
+\par has the Equalizer WindowShade mode and the Browser is fixed for Winamp 2.20 and a lot of
+\par other improvments. Read the history.txt for more info. Version 1.9 has just a few small
+\par changes: The color of the address in the MiniBrowser and some other small improvements.
+\par Version 1.95 now has the Mac cursors.
+\par \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash 
+\par Please make any comments or any suggestion to make this skin look better, by keeping the
+\par OS8 interface. To contact me, send and e-Mail to \plain\f2\fs16\cf0\ul DeeLight@FlashMail.com\plain\f2\fs16\cf0 
+\par \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash 
+\par \plain\f2\fs16 You can also visit Dimension Group Pages:
+\par \pard\li144\plain\f2\fs16\b Dimension Group:
+\par \plain\f2\fs16 http://dimgroup.cjb.net/
+\par \plain\f2\fs16\b Design Dimension:
+\par \pard\li270\fi-126{\*\pn\pnlvlblt\pnf1\pnindent126{\pntxtb\'b7}}\plain\f2\fs16 {\pntext\f1\'b7\tab}http://designdim.cjb.net/
+\par \pard\li144\plain\f2\fs16\b Search Dimension:
+\par \pard\li270\fi-126{\*\pn\pnlvlblt\pnf1\pnindent126{\pntxtb\'b7}}\plain\f2\fs16 {\pntext\f1\'b7\tab}http://come.to/searchdim
+\par \pard\li144\plain\f2\fs16\b Music Dimension:
+\par \pard\li270\fi-126{\*\pn\pnlvlblt\pnf1\pnindent126{\pntxtb\'b7}}\plain\f2\fs16 {\pntext\f1\'b7\tab}http://musicdim.cjb.net/
+\par \pard\plain\f2\fs16\cf0 
+\par \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash 
+\par \plain\f4\fs24\cf0\b  History - Up To Version 1.95
+\par \plain\f2\fs16\cf0 \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash \emdash 
+\par 
+\par \plain\f2\fs16\cf0\b What's new in version 1.95?
+\par \plain\f2\fs16\cf0 
+\par \pard\li180\fi-180{\*\pn\pnlvlblt\pnf1\pnindent180{\pntxtb\'b7}}\plain\f2\fs16\cf0 {\pntext\f1\'b7\tab}Added the Mac Cursors, for those who use them;
+\par \pard\plain\f2\fs16\cf0 
+\par \plain\f2\fs16\cf0\b What's new in version 1.9?
+\par \plain\f2\fs16\cf0 
+\par \pard\li180\fi-180{\*\pn\pnlvlblt\pnf1\pnindent180{\pntxtb\'b7}}\plain\f2\fs16\cf0 {\pntext\f1\'b7\tab}Changed the color of the font in the MiniBroswer;
+\par {\pntext\f1\'b7\tab}Fixed the Button in Equalizer to swich to WindowShade Mode;
+\par {\pntext\f1\'b7\tab}Fixed the minus in the numbers;
+\par {\pntext\f1\'b7\tab}Fixed some small pixel bugs in all windows;
+\par \pard\plain\f2\fs16\cf0 
+\par \plain\f2\fs16\cf0\b What's new in version 1.8?
+\par \plain\f2\fs16\cf0 
+\par \pard\li180\fi-180{\*\pn\pnlvlblt\pnf1\pnindent180{\pntxtb\'b7}}\plain\f2\fs16\cf0 {\pntext\f1\'b7\tab}Changed the look of the numbers (rounded edges);
+\par {\pntext\f1\'b7\tab}Added WindowShade Mode to the Equalizer;
+\par {\pntext\f1\'b7\tab}Fixed the MiniBrowser for v2.20 of Winamp;
+\par {\pntext\f1\'b7\tab}Enhanced all text with light shadow;
+\par {\pntext\f1\'b7\tab}Fixed some small pixel bugs;
+\par {\pntext\f1\'b7\tab}Changed the colors in the PlayList;
+\par {\pntext\f1\'b7\tab}Changed the picture for MainWindow in WindowShade Mode;
+\par {\pntext\f1\'b7\tab}Changed the font to Crystal Bastard, with a color change;
+\par {\pntext\f1\'b7\tab}Changed the KBPS and KHZ font in the main window; 
+\par {\pntext\f1\'b7\tab}Changed the buttons in the MiniBrowser;
+\par {\pntext\f1\'b7\tab}Fixed other bugs in the MiniBrowser;
+\par \pard\plain\f2\fs16\cf0 
+\par \plain\f2\fs16\cf0\b What's new in version 1.6?
+\par \plain\f2\fs16\cf0 
+\par \pard\li180\fi-180{\*\pn\pnlvlblt\pnf1\pnindent180{\pntxtb\'b7}}\plain\f2\fs16\cf0 {\pntext\f1\'b7\tab}The blue-purple is a little brighter in black areas;
+\par {\pntext\f1\'b7\tab}A bug in main window fixed;
+\par {\pntext\f1\'b7\tab}Changed the : in the time display;
+\par {\pntext\f1\'b7\tab}Changed the numbers;
+\par {\pntext\f1\'b7\tab}Enhanced control buttons;
+\par {\pntext\f1\'b7\tab}Added a skin for the Browser;
+\par \pard\plain\f2\fs16\cf0 
+\par \plain\f2\fs16\cf0\b What's new in version 1.5?
+\par \plain\f2\fs16\cf0 
+\par \pard\li180\fi-180{\*\pn\pnlvlblt\pnf1\pnindent180{\pntxtb\'b7}}\plain\f2\fs16\cf0 {\pntext\f1\'b7\tab}Changed the green fonts to blue-purple ones;
+\par {\pntext\f1\'b7\tab}Changed the font and style in title bar;
+\par {\pntext\f1\'b7\tab}Skin color is a little brighter, to look more like an mac design;
+\par {\pntext\f1\'b7\tab}Changed all scrollers to blue-purple, like a mac;
+\par {\pntext\f1\'b7\tab}Changed all buttons, to look more like a mac;
+\par {\pntext\f1\'b7\tab}Changed the playlist's "Resize Corner";
+\par {\pntext\f1\'b7\tab}Changed the equalizer's "View Screen";
+\par {\pntext\f1\'b7\tab}Changed the graphic under all scrollers;
+\par {\pntext\f1\'b7\tab}Added "Mac Style" lines in playlists's title bar;
+\par {\pntext\f1\'b7\tab}Changed the "Mac Style" dots to lines in main and equalizer window;
+\par {\pntext\f1\'b7\tab}Fixed the playlist's "shade" button;
+\par {\pntext\f1\'b7\tab}Changed the control buttons in playlist;
+\par {\pntext\f1\'b7\tab}Changed the control buttons in main windows in shade mode;
+\par {\pntext\f1\'b7\tab}Changed the style of the seeker in shade mode;
+\par {\pntext\f1\'b7\tab}Changed all green to glue-purple;
+\par \pard\plain\f2\fs16\cf0 
+\par \plain\f2\fs16\cf0\b What's new in version 1.0?
+\par \plain\f2\fs16\cf0 
+\par \pard\li180\fi-180{\*\pn\pnlvlblt\pnf1\pnindent180{\pntxtb\'b7}}\plain\f2\fs16\cf0 {\pntext\f1\'b7\tab}First version of my OS8 AMP Skin.
+\par \pard\plain\f2\fs16\cf0 
+\par }
+ 

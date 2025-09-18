@@ -1,0 +1,6 @@
+/* XPM */
+static char * menu_back_xpm[] = {
+"1 1 2 1",
+" 	c None",
+".	c #C8CCC8",
+"."};

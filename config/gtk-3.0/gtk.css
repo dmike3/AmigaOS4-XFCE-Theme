@@ -1,0 +1,48 @@
+XfdesktopIconView.view {
+    color: black;
+    text-shadow: none;
+    font-style: italic;
+    -XfdesktopIconView-cell-spacing: 0;
+    -XfdesktopIconView-cell-padding: 0;
+    -XfdesktopIconView-cell-text-width-proportion: 1.5;
+}
+
+
+#separator-12 { color: darkgrey; }
+
+#XfcePanelWindow {
+  -XfcePanelWindow-popup-delay: 0;
+  -XfcePanelWindow-popdown-delay: 50;
+
+}
+
+.thunar .view,
+.thunar .view:active,
+.thunar .view:selected,
+.thunar .view:hover {
+    font-style: italic;
+}
+
+.xfce4-panel.panel button.flat, 
+.xfce4-panel.panel button.sidebar-button {
+  color: #000000; /* Black font */
+  text-shadow: none; /* Remove text shadow */
+  -gtk-icon-shadow: none; /* Remove icon shadow */
+  border: none; /* Remove borders around launcher buttons */
+  box-shadow: none; /* Remove any box shadows */
+}
+
+/* Specifically for panel launcher buttons (buttons in the panel) */
+.xfce4-panel .panel-button {
+    background-color: transparent; /* Transparent background for launcher buttons */
+    border: none; /* Remove borders around launcher buttons */
+    box-shadow: none; /* Remove any box shadows */
+}
+
+/* Remove background from any icons in the panel */
+.xfce4-panel .panel-icon {
+    background-color: transparent; /* Transparent background for icons */
+    border: none; /* Remove borders around icons */
+    box-shadow: none; /* Remove any icon shadow */
+}
+

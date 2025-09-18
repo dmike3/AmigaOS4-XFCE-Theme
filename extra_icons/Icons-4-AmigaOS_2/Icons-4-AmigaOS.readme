@@ -1,0 +1,23 @@
+Short:        AmigaOS 4.1 Style Icons... (DualPNG)
+Author:       IconDesigner
+Uploader:     icondesigner@yahoo.de
+Type:         pix/picon
+Version:      22-05-2013
+Architecture: generic
+Requires:     >Preview< Icons for AmigaOS2 (DualPNG-Icons)
+
+small package of icons for amigaos, in the style of amigaos 4.1 ...
+
+requirements:
+
+- AFA-OS
+- icon.library 46.4
+- and amigaos 3 or better
+
+special thanx...
+
+- Peter Keunecke ...the author of the icon.library 46.4
+
+some icons are based on other icons from...
+
+- Martin (Mason) Merz ...thanx
