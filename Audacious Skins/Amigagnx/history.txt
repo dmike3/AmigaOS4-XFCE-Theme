@@ -1,0 +1,55 @@
+What's new in version 1.95?
+
+ - Added the Mac Cursors, for those who use them;
+
+What's new in version 1.9?
+
+ - Changed the color of the font in the MiniBroswer;
+ - Fixed the Button in Equalizer to swich to WindowShade Mode;
+ - Fixed the minus in the numbers;
+ - Fixed some small pixel bugs in all windows;
+
+What's new in version 1.8?
+
+ - Changed the look of the numbers (rounded edges);
+ - Added WindowShade Mode to the Equalizer;
+ - Fixed the MiniBrowser for v2.20 of Winamp;
+ - Enhanced all text with light shadow;
+ - Fixed some small pixel bugs;
+ - Changed the colors in the PlayList;
+ - Changed the picture for MainWindow in WindowShade Mode;
+ - Changed the font to Crystal Bastard, with a color change;
+ - Changed the KBPS and KHZ font in the main window; 
+ - Changed the buttons in the MiniBrowser;
+ - Fixed other bugs in the MiniBrowser;
+
+What's new in version 1.6?
+
+ - The blue-purple is a little brighter in black areas;
+ - A bug in main window fixed;
+ - Changed the : in the time display;
+ - Changed the numbers;
+ - Enhanced control buttons;
+ - Added a skin for the Browser;
+
+What's new in version 1.5?
+
+ - Changed the green fonts to blue-purple ones;
+ - Changed the font and style in title bar;
+ - Skin color is a little brighter, to look more like an mac design;
+ - Changed all scrollers to blue-purple, like a mac;
+ - Changed all buttons, to look more like a mac;
+ - Changed the playlist's "Resize Corner";
+ - Changed the equalizer's "View Screen";
+ - Changed the graphic under all scrollers;
+ - Added "Mac Style" lines in playlists's title bar;
+ - Changed the "Mac Style" dots to lines in main and equalizer window;
+ - Fixed the playlist's "shade" button;
+ - Changed the control buttons in playlist;
+ - Changed the control buttons in main windows in shade mode;
+ - Changed the style of the seeker in shade mode;
+ - Changed all green to glue-purple;
+
+What's new in version 1.0?
+
+ - First version of my OS8 AMP Skin.

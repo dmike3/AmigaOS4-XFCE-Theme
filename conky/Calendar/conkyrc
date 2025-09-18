@@ -1,0 +1,73 @@
+conky.config = {
+-- — Conky settings — #
+  background = true,
+  update_interval = 1,
+  total_run_times = 0,
+  net_avg_samples = 2,
+  override_utf8_locale = true,
+  double_buffer = true,
+  no_buffers = true,
+  
+
+ -- Window Settings --
+
+    border_width = 1,
+    draw_borders = false,
+    draw_blended = true,
+    draw_graph_borders = false,
+    draw_outline = false,
+    draw_shades = false,
+    own_window = true,
+    own_window_colour = '000000',
+    own_window_class = 'Conky',
+    own_window_argb_visual = true,
+    own_window_type = 'desktop',
+    own_window_transparent = true,
+    own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+    stippled_borders = 0,
+    border_inner_margin = 0,
+    border_outer_margin = 0,
+    minimum_width = 200, minimum_height = 200,
+    maximum_width = 200,
+    alignment = 'top_right',
+    gap_x = 20,
+    gap_y = 34, 
+
+-- — Text settings — #
+
+    use_xft = true,
+    font = 'LCDMono2:size=8.5',
+    xftalpha = 1.0,
+    default_color = '#000000',
+    uppercase = false,
+    use_spacer = 'right',
+
+
+-- — Lua Load — #
+lua_load = '$HOME/.conky/Calendar/scripts/transparent-image.lua',
+
+};
+
+conky.text = [[
+
+${lua conky_image /home/niter3/.conky/Calendar/default.png 1 110 160 180} 
+
+
+${voffset 162}
+
+${execpi 60 bash -c '
+  day=$(date +%-d)
+  cal | sed -E "
+    1s/.*/\${color white}\${font Arial:size=12:bold}&\${font}\${color}\n\n/;
+    2s/.*/&\n/;
+    s/^/    /;
+    s/(^| )($day)( |$)/\1\${color red}\2\${color}\3/g"
+'}
+
+
+
+
+
+
+
+]];
