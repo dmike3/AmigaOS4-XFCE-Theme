@@ -16,5 +16,5 @@ You'll have to enable all this manually.
 
 ### Sample Of Desktop
 
-![Alt text](sample.png)
+![Alt text](sample1.png)
 
