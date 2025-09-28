@@ -12,6 +12,6 @@ You'll have to enable all this manually.
     - gtk-3.0 go into .config/gtk-3.0
     - etc...
 
-# Sample Of Desktop
+## Sample Of Desktop
 
 ![Alt text](sample.png)
