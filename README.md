@@ -10,6 +10,7 @@ You'll have to enable all this manually.
     - conky will go under .conky
     - fonts go into .fonts
     - gtk-3.0 go into .config/gtk-3.0
+    - startup sounds can be added to XFCE "session and startup" which points to the script "startup_sound.sh" (remember to install ffplay)
     - etc...
 
 ### Sample Of Desktop
